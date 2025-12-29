@@ -2,7 +2,7 @@ import curses
 import random
 import time
 
-WIDTH, HEIGHT = 15, 40
+WIDTH, HEIGHT = 15, 30
 
 SHAPES = [
     [(0,0),(1,0),(0,1),(1,1)],          # O
